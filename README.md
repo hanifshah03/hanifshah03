@@ -1,151 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hanif Shah</h1>
+# 💫 About Me:
+<br>🎓 B.Tech in Computer Science Engineering (AI & ML)<br><br>🏫 Brainware University, West Bengal<br><br>💡 Passionate about Artificial Intelligence, Machine Learning and Software Development.<br><br>🌱 Currently learning<br>- Generative AI<br>- Deep Learning<br>- Flutter<br>- Computer Vision<br>- Cloud Computing<br>- Data Structures & Algorithms<br><br>💼 Interested in<br>- AI/ML Engineer<br>- Software Development Engineer<br>- Computer Vision Engineer<br><br>🎯 Goal<br><br>To build intelligent AI applications that solve real-world problems while continuously improving my software development skills.<br><br>📫 Email: **hanifshahhanif1@gmail.com**<br><br>💬 Ask me about:<br>Python • JAVA • C • AI • ML • DSA • DL • SQL • Computer Vision • Software Tools & Technologies<br><br>⚡ Fun Fact:<br>I love travelling, photography, cooking and building real-world applications.<br>
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | AI Developer | Machine Learning Enthusiast | Computer Vision Learner
-</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1HFW4gxZb9/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_hanif.03_?utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hanif-shah-17783a255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/i_am_hanif?s=11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanifshahhanif1@gmail.com) 
 
-## 👨‍💻 About Me
-
-🎓 B.Tech in Computer Science Engineering (AI & ML)
-
-🏫 Brainware University, West Bengal
-
-💡 Passionate about Artificial Intelligence, Machine Learning and Software Development.
-
-🌱 Currently learning
-- Generative AI
-- Deep Learning
-- Flutter
-- Computer Vision
-- Cloud Computing
-- Data Structures & Algorithms
-
-💼 Interested in
-- AI/ML Engineer
-- Software Development Engineer
-- Computer Vision Engineer
-
-🎯 Goal
-
-To build intelligent AI applications that solve real-world problems while continuously improving my software development skills.
-
-📫 Email: **hanifshahhanif1@gmail.com**
-
-💬 Ask me about:
-Python • JAVA • C • AI • ML • DSA • DL • SQL • Computer Vision • Software Tools & Technologies
-
-⚡ Fun Fact:
-I love travelling, photography, cooking and building real-world applications.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=plastic&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hanifshah03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hanifshah03&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hanifshah03&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=hanifshah03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### AI & Data
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-success?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Hosting
-
-AWS • Azure • GLITCH • Google Cloud 
-
-### Frameworks,Platforms & Libraries
-
-Flutter • Open CV • HomeBrew • Flask • KERAS • Matplotlib • NumPy • Pandas • PyTorch • TensorFlow 
-
-### CI/CD VCS 
-
-Git • GitHub
-
-### Design & Others Tools
-
-Figma • Canva • Adobe Photoshop • Power BI • Meta • ChatGPT • Gemini • Perplexity • Claude • AntiGravity • VS Code
-
----
-
-## 🌟 Featured Projects
-
-### 🧠 Computer Vision App with Azure Cognitive Services
-
-AI-powered application using Azure Vision APIs.
-
----
-
-### 🤖 Multi-Task Learning with Keras
-
-Deep Learning model trained for multiple prediction tasks.
-
----
-
-### 🖼️ Image Segmentation using PyTorch
-
-Implemented semantic image segmentation using Deep Learning.
-
----
-
-### ✨ Introduction to Generative AI
-
-Exploring LLMs, Prompt Engineering and AI applications.
-
----
-
-### ✋ Virtual Mouse Using Hand Gesture
-
-Control your PC by using Your Hand.
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌍 Connect with Me
-
-LinkedIn:
-https://linkedin.com/in/hanif-shah-17783a255
-
-Email:
-hanifshahhanif1@gmail.com
-
-Instagram:
-https://www.instagram.com/_hanif.03_?utm_source=qr
-
-Facebook:
-https://www.facebook.com/share/1HFW4gxZb9/?mibextid=wwXIfr
-
-X:
-https://x.com/i_am_hanif?s=11
-
----
-
-## 💡 Quote
-
-> "Consistency beats talent when talent doesn't stay consistent."
-
-⭐ Thanks for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
